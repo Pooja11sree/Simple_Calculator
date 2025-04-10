@@ -1,5 +1,5 @@
-#🔢 Simple Calculator in Java
-  This is a basic console-based calculator written in Java that performs simple arithmetic operations on two integers.
+#🔢 Simple Calculator in Java: 
+This is a basic console-based calculator written in Java that performs simple arithmetic operations on two integers.
 
 #✅ Features : 
 Addition (+)
