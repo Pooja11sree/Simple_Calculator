@@ -1,7 +1,7 @@
 #🔢 Simple Calculator in Java
   This is a basic console-based calculator written in Java that performs simple arithmetic operations on two integers.
 
-#✅ Features
+#✅ Features : 
 Addition (+)
 Subtraction (-)
 Multiplication (*)
@@ -17,10 +17,10 @@ Validates against invalid operators and division by zero.
 Enter two values to perform arithmetic operations: 
 10  5
 Choose an operator to perform operation:
-Addition (+) \n
-Subtraction (-) \n
-Multiplication (*) \n
-Division (/) \n
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/) 
 +
 Result: 15
 
